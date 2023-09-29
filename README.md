@@ -1,6 +1,7 @@
 =========  ALGORITHMIC RSI STORM =========
 
 --- You can Get the EA on the following MQL5 link --> https://www.mql5.com/en/market/product/106056
+
 --- FOR GAO - For the GAO - Genetic Algorithmic Optimized Setup file which you can load on EA config (.set config file), DM me, or pick up the link on YT video.
 
 =========  DESCRIPTION  =========
