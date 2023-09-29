@@ -1,0 +1,37 @@
+; "COPYRIGHT, 2023 - ALGORITHMIC, GMBH"
+; "ALGORITHMIC RSI STORM "
+; "https://www.algorithmic.one"
+; "Contact - info@algorithmic.one"
+; 
+SYMB========= INSTRUMENTS CONFIGURATION ========
+SYMBOLS=EURUSD,EURGBP,EURCAD,EURAUD,EURCHF,EURNZD,USDJPY,USDCAD,CADCHF,CADJPY,GBPNZD,GBPUSD,GBPCHF,GBPAUD,GBPCAD,GBPJPY,AUDCAD,AUDNZD,AUDCHF,AUDJPY,NZDUSD,NZDCAD,NZDCHF,NZDJPY
+TP_SL_CONFIG========= TP & SL CONFIGURATION ========
+TP_SL_ENABLED=false||false||0||true||N
+LOTS_CONFIG====== LOTS CONFIG =====
+LOTS=10.0||0.1||0.1||2.0||Y
+HEDGE_CONFIG====== HEDGE CONFIG =====
+HEDGE_MULTIPLIER=2.0||2.0||0.200000||20.000000||N
+HEDGE_DISTANCE=150||25||1||250||N
+MAX_DD====== MAX DRAWDOWN KILL SWITCH CONFIG =====
+Cut_Loss=false||false||0||true||N
+Cut_Loss_percent=0.5||4.0||0.400000||40.000000||N
+PROFIT_CONFIG====== PROFIT CONFIG =====
+EXPECTED_PROFIT=1000.0||500.0||500.0||2000.0||Y
+DAILY_PROFIT_GOAL=2000.0||2||500.0||5000.0||N
+TOTAL_PROFIT_GOAL=20000.0||20000.0||2000.000000||200000.000000||N
+DAILY_LOSS_GOAL=-2000.0||-8000.0||-800.000000||-80000.000000||N
+Time_Control========= TIME CONFIGURATION ========
+Start_Hour=00:01
+End_Hour=23:59
+Monday=false||false||0||true||Y
+Tuesday=false||false||0||true||Y
+Wednesday=true||false||0||true||Y
+Thursday=false||false||0||true||Y
+Friday=false||false||0||true||Y
+Saturday=false||false||0||true||N
+Sunday=false||false||0||true||N
+MAX_PT========= MAX_PARALELL_TRADES CONFIGURATION ========
+MAX_PARALELL_TRADES_BUY=1||1||1||5||Y
+MAX_PARALELL_TRADES_SELL=5||1||1||5||Y
+TOTAL_MAX_PARALLEL_TRADES=6||2||1||20||N
+MagicStart=5235||5235||1||52350||N
