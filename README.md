@@ -1,20 +1,19 @@
-![white_logo_transparent_background - website](https://github.com/tHeStRyNg/Algorithmic/assets/118682909/59140aec-f5dd-4200-a981-12786b11ae0c)
-www.algorithmic.one
+![Algorithmic Logo](https://github.com/tHeStRyNg/Algorithmic/assets/118682909/59140aec-f5dd-4200-a981-12786b11ae0c)
 
---- You can Get the EAs on the following MQL5 link --> [MQL5 Store - EAs MT5 and MT4](https://www.mql5.com/en/users/info_algorithmic/seller)
+Visit our website: [www.algorithmic.one](www.algorithmic.one)
 
---- FBGAO - Fast Based Genetic Algorithm Optimization Setup Set files you can explore this code repository and match your EA Version to the GA config set, download it and load it on MT4/5.
-Take time to understand the optimization configurations and how to backtest it according to the optimization.
-Advise to run on a prop firm trial with these configs before goes on a live account so you can benchmark performance and tune lot sizes according to your balance.
+Discover our EAs (Expert Advisors) on the MQL5 marketplace, where you can find both MT4 and MT5 versions: [MQL5 Store - EAs MT5 and MT4](https://www.mql5.com/en/users/info_algorithmic/seller)
 
-=========  EA SETTIINGS USED CROSS ALL CONFIGS  =========
+Explore our innovative FBGAO (Fast Based Genetic Algorithm Optimization) Setup Set files in our code repository. Match your EA Version to the GA config set, download it, and load it on MT4/5. It's essential to take the time to understand the optimization configurations and how to backtest them according to the optimization. We strongly advise running a trial with a proprietary firm using these configurations before transitioning to a live account. This way, you can benchmark performance and adjust lot sizes according to your balance.
 
-## Example Settings Config for Backtesting
+=========  EA SETTINGS USED ACROSS ALL CONFIGS  =========
 
-![OPTIMIZER_SETTINGS](https://github.com/tHeStRyNg/Algorithmic/assets/118682909/cbe349e7-8f83-4942-b63a-af9e25bde3c1)
+Here's an example settings configuration for backtesting:
 
-Use similar configuration
+![Optimizer Settings](https://github.com/tHeStRyNg/Algorithmic/assets/118682909/cbe349e7-8f83-4942-b63a-af9e25bde3c1)
 
-If any question, reach out to me anytime info@algorithmic.one, mql5 store chat or whatsapp +41779476934.
+We recommend using a similar configuration for best results.
 
-Enjoy 
+If you have any questions or need assistance, feel free to reach out to us anytime via email at info@algorithmic.one, MQL5 store chat, or WhatsApp at +41779476934.
+
+Enjoy your algorithmic trading journey with us!
