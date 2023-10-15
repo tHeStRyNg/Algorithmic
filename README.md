@@ -1,4 +1,4 @@
-## =========  ALGORITHMIC =========
+![white_logo_transparent_background - website](https://github.com/tHeStRyNg/Algorithmic/assets/118682909/59140aec-f5dd-4200-a981-12786b11ae0c)
 www.algorithmic.one
 
 --- You can Get the EAs on the following MQL5 link --> [MQL5 Store - EAs MT5 and MT4](https://www.mql5.com/en/users/info_algorithmic/seller)
