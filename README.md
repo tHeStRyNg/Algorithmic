@@ -1,4 +1,5 @@
 ## =========  ALGORITHMIC =========
+www.algorithmic.one
 
 --- You can Get the EAs on the following MQL5 link --> [MQL5 Store - EAs MT5 and MT4](https://www.mql5.com/en/users/info_algorithmic/seller)
 
