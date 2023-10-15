@@ -2,7 +2,7 @@
 
 --- You can Get the EAs on the following MQL5 link --> [MQL5 Store - EAs MT5 and MT4](https://www.mql5.com/en/users/info_algorithmic/seller)
 
---- FOR GAO - For the GAO - Genetic Algorithmic Optimized Setup Set files you can explore this code repository and match your EA Version to the GA config set, download it and load it on MT4/5.
+--- FBGAO - Fast Based Genetic Algorithm Optimization Setup Set files you can explore this code repository and match your EA Version to the GA config set, download it and load it on MT4/5.
 Take time to understand the optimization configurations and how to backtest it according to the optimization.
 Advise to run on a prop firm trial with these configs before goes on a live account so you can benchmark performance and tune lot sizes according to your balance.
 
