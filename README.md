@@ -1,8 +1,8 @@
 ![Algorithmic Logo](https://github.com/tHeStRyNg/Algorithmic/assets/118682909/59140aec-f5dd-4200-a981-12786b11ae0c)
 
-### Visit our website: [www.algorithmic.one](https://www.algorithmic.one)
-### Visit our store: [MQL5 Store - EAs MT5 and MT4](https://www.mql5.com/en/users/info_algorithmic/seller)
-### Visit our YT Channel for Videos on EAs and their Performance: [YouTube - Algorithmic Videos](https://www.youtube.com/@ALGORITHMIC_AI/videos)
+#### Visit our website: [www.algorithmic.one](https://www.algorithmic.one)
+#### Visit our store: [MQL5 Store - EAs MT5 and MT4](https://www.mql5.com/en/users/info_algorithmic/seller)
+#### Visit our YT Channel for Videos on EAs and their Performance: [YouTube - Algorithmic Videos](https://www.youtube.com/@ALGORITHMIC_AI/videos)
 
  - Discover our EAs (Expert Advisors) on the MQL5 marketplace, where you can find both MT4 and MT5 versions: [MQL5 Store - EAs MT5 and MT4](https://www.mql5.com/en/users/info_algorithmic/seller)
 
