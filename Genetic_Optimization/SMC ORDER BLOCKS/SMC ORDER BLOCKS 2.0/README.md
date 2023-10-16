@@ -1,10 +1,12 @@
 ### GENETIC ALGORITHM OPTIMIZATION GAO
 #### OPTIMIZATION STANDARDIZATION ON CONFIG SETUP INPUTS
  - **TIMEFRAME** - M15
- - **Data Modeling** -1 Minute OHLC
+ - **Data Modeling** - M1 OHLC
  - **DATES** - 01.01.2020 TO 15.10.2023 (LAST 3 YEARS)
- - **OPTIMIZATION CRITERION**: FBGAO Fast Based Genetic Algorithm + Complex Criterion Max
-- **LOTS**: 10
+ - **OPTIMIZATION CRITERION**: FBGAO - Fast Based Genetic Algorithm + Complex Criterion Max
+ - **LOTS**: 1, 10 and 100 (3 tests at 99.99 score on the optimizer)
+ - **ACCOUNT SIZE**: 100,000.00 USD
+ - **LEVERAGE**: 1:100
 - 
 #### UNDERSTANDING GAO RESULTS
 
@@ -25,15 +27,7 @@ The following values are displayed for each optimization run:
 
 #### OPTIMIZATION CRITERION
 
-##### Optimization Types
-
-Two optimization types are available in the tester. You can select the appropriate one on the Settings tab of the Strategy Tester.
-
-**Slow Complete Algorithm**
-
-In this mode, optimization runs are performed for all possible combinations of values of input variables selected on the appropriate tab.
-
-This method is the most precise one. However, running the Expert Advisor with all possible combinations takes much time.
+##### Optimization Type
 
 **Fast Genetic Algorithm**
 
@@ -65,22 +59,12 @@ where:
 
 An optimization criterion is a certain factor, which value defines the quality of a tested set of parameters. The higher the value of the optimization criterion, the better the testing result with the given set of parameters. Such a factor can be selected in a field to the right of "Optimization" on the Settings tab.
 
-The optimization criterion is required only for the genetic algorithm.
 
-The following optimization criteria are available:
-- Balance max — the highest value of the balance.
-- Profit Factor max —  the highest value of the profit factor.
-- Expected Payoff max — the highest value of the expected payoff.
-- Drawdown min — in this case, the relative drawdown of balance in percentage terms is taken into account.
-- Recovery Factor max — the highest value of the recovery factor.
-- Sharpe Ratio max — the highest value of the Sharpe ratio.
-- Custom max — the optimization criterion here is the value of the OnTester() function in the Expert Advisor. This parameter allows using any custom value for the optimization of Expert Advisors.
-
-Another option is to use "Complex Criterion max". This is an integral and complex measure of a test pass quality. It measures multiple parameters:
+We only use "Complex Criterion max". This is an integral and complex measure of a test pass quality. It measures multiple parameters:
 - Number of Deals
 - Drawdown
 - Recovery Factor
 - Expected Payoff
 - Sharpe Ratio
 
-By using this criterion, you can see that the highest value of one parameter (for example the profit) is not always the best option in terms of the complex analysis. The complex criterion gradually selects the best passes: firstly, by the number of deals, then by the Expected Payoff, Recovery Factor, and so on. The new option allows reception of the best optimization passes according to all parameters. Furthermore, you can select the optimal pass based on the desired parameter, such as the highest profit.
+By using this criteria, you can see that the highest value of one parameter (for example the profit) is not always the best option in terms of the complex analysis. The complex criterion gradually selects the best passes: firstly, by the number of deals, then by the Expected Payoff, Recovery Factor, and so on. The new option allows reception of the best optimization passes according to all parameters. Furthermore, you can select the optimal pass based on the desired parameter, such as the highest profit.
