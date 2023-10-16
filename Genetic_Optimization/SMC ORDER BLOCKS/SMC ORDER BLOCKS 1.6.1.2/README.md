@@ -1,10 +1,12 @@
 ### GENETIC ALGORITHM OPTIMIZATION GAO
 #### OPTIMIZATION STANDARDIZATION ON CONFIG SETUP INPUTS
  - **TIMEFRAME** - M15
- - **Data Modeling** -1 Minute OHLC
+ - **Data Modeling** - M1 OHLC
  - **DATES** - 01.01.2020 TO 15.10.2023 (LAST 3 YEARS)
- - **OPTIMIZATION CRITERION**: FBGAO Fast Based Genetic Algorithm + Complex Criterion Max
-- **LOTS**: 10
+ - **OPTIMIZATION CRITERION**: FBGAO - Fast Based Genetic Algorithm + Complex Criterion Max
+ - **LOTS**: 1, 10 and 100 (3 tests at 99.99 score on the optimizer)
+ - **ACCOUNT SIZE**: 100,000.00 USD
+ - **LEVERAGE**: 1:100
 - 
 #### UNDERSTANDING GAO RESULTS
 
