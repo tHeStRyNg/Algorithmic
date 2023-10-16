@@ -4,7 +4,10 @@
  - **Data Modeling** -M1 OHLC
  - **DATES** - 01.01.2020 TO 15.10.2023 (LAST 3 YEARS)
  - **OPTIMIZATION CRITERION**: FBGAO - Fast Based Genetic Algorithm + Complex Criterion Max
-- **LOTS**: 1, 10 and 100 (3 tests at 99.99 score on the optimizer)
+ - **LOTS**: 1, 10 and 100 (3 tests at 99.99 score on the optimizer)
+
+#### OPTIMIZATION RESULTS SCORE
+![OPTIMIZER RESULTS SCORE](REPORTS/OPTIMIZER_SCREENSHOT.99.99_SCORE.png)
 
 #### OPTIMIZATION WIN@ FROM 2020 JAN TO 2023 OCT
 
