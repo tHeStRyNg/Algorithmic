@@ -10,7 +10,7 @@
 
 =========  EA SETTINGS USED ACROSS ALL CONFIGS  =========
 
-Here's an example settings configuration for backtesting:
+Here's an example settings configuration that was used for genetic algorithm optimization:
 
 ![Optimizer Settings](https://github.com/tHeStRyNg/Algorithmic/assets/118682909/cbe349e7-8f83-4942-b63a-af9e25bde3c1)
 
