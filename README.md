@@ -15,6 +15,7 @@ Here's an example settings configuration for backtesting:
 ![Optimizer Settings](https://github.com/tHeStRyNg/Algorithmic/assets/118682909/cbe349e7-8f83-4942-b63a-af9e25bde3c1)
 
 We recommend using a similar configuration for best results.
+__Note the config is using 1 minute OHLC for data modeling, for more optimal results we provide Real Tick Data Modeling as an extra service. Get in touch.__
 
 If you have any questions or need assistance, feel free to reach out to us anytime via email at info@algorithmic.one, [MQL5 Store - EAs MT5 and MT4](https://www.mql5.com/en/users/info_algorithmic/seller) Chat, or WhatsApp at +41779476934.
 
